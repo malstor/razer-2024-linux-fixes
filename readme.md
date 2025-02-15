@@ -52,5 +52,6 @@ hda-verb /dev/snd/hwC1D0 0x20 0x400 0x0
 - `0x0` = **Parameter**
 
 ## Conclusion
-Follow these steps to identify and use the correct `/dev/snd/hw(device id)` for `hda-verb`.
+Follow these steps to identify and use the correct `/dev/snd/hw(device id)` for `hda-verb`, then edit and run the script.
+Its not nessecary to restart. Be amazed as your audio is finaly working for native Linux on the Razer.
 
